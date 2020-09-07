@@ -15,6 +15,8 @@ Use it in cmd as
 ```bash
 pip install pygame==1.9.6"
 ```
+### Screenshot
+<div><img src="tic tac opening.png" height = "40%" width="40%"></img></div>
 
 ## Contributing
 Pull requests are welcome.<br> For major changes, please open an issue first to discuss what you would like to change.<br>
